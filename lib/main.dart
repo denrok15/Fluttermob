@@ -62,7 +62,7 @@ class _UserPanelState extends State<UserPanel> {
           });
         },
         child: Icon(Icons.ads_click_outlined),
-        backgroundColor: Colors.amber,
+        backgroundColor: Colors.black,
       ),
     );
   }
